@@ -1,0 +1,19 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="login.component.css">
+</head>
+
+<div class="login-container">
+    <h2>Login</h2>
+    <form (ngSubmit)="onSubmit()">
+      <div>
+        <label for="Username">Username</label>
+        <input type="text" id="Username" [(ngModel)]="Username" name="Username" required>
+      </div>
+      <div>
+        <label for="Password">Password</label>
+        <input type="Password" id="Password" [(ngModel)]="Password" name="Password" required>
+      </div>
+      <button type="submit">Login</button>
+    </form>
+  </div>
+  

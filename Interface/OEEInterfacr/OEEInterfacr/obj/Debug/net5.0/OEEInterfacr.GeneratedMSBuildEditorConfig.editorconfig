@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = OEEInterfacr
+build_property.ProjectDir = C:\3rd_Year\6th_semester\DANG_15th_May\VERY_IMPORTANT_BACKUPS\23rdJune_10kincome\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\

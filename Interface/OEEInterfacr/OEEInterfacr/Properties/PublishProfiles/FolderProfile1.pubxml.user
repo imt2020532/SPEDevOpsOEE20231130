@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2023-06-21T07:23:00.1018239Z;</History>
+  </PropertyGroup>
+</Project>

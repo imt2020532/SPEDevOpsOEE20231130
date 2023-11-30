@@ -1,0 +1,91 @@
+<h1 class="text-center">Oh my God!</h1>
+
+<button class="btn btn-primary" routerLink="/addmach">Add a Machine</button>
+
+<table class = "table table-striped">
+
+    <thead>
+        <tr>
+        <th>MachineId</th>
+        <th>Machine Name</th>
+        <th>Sh Name</th>
+        <th>Options</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let dataItem of mlist">
+          <td>
+            <span style="display: inline-block; border: 1px solid #000; border-radius: 5px; padding: 5px; font-weight: bold; font-size: 16px;">
+              {{dataItem.pkint_Machine}}
+            </span>
+          </td>
+          <td>
+            <span style="display: inline-block; border: 1px solid #000; border-radius: 5px; padding: 5px; font-weight: bold; font-size: 16px;">
+              {{dataItem.ch_name}}
+            </span>
+          </td>
+          <td>
+            <span style="display: inline-block; border: 1px solid #000; border-radius: 5px; padding: 5px; font-weight: bold; font-size: 16px;">
+              {{dataItem.ch_shortname}}
+            </span>
+          </td>
+            </tr>
+    </tbody>
+</table>
+
+
+
+
+<!-- <head>
+    <link rel="stylesheet" type="text/css" href="machine.component.css">
+</head>
+    <form  class="border border-dark p-3 rounded-3 center-form">
+    
+        <div class="row g-0">
+            <div class="col text-center p-2 mb-3 bg-light">
+                <span class="fs-3">Add Machine</span>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col mb-3">
+                <label for ="MName" class="form-label">Machine Name</label>
+                <input type="text" class="form-control" id="MName"
+                formControlName = "MName">  
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col mb-3">
+                <label for ="MSName" class="form-label">Machine Short Name</label>
+                <input type="text" class="form-control" id="MSName"
+                formControlName = "MSName">  
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col mb-3">
+                <label for ="ulogin" class="form-label">ulogin</label>
+                <input type="text" class="form-control" id="ulogin"
+                formControlName = "ulogin">  
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col mb-3">
+                <label for ="usession" class="form-label">usession</label>
+                <input type="text" class="form-control" id="usession"
+                formControlName = "usession">  
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-6 offset-3">
+                <div class="d-grid">
+                    <button type="submit"  class="btn btn-primary"> Submit </button>
+                </div>
+            </div>
+        </div>
+    
+    
+    </form> -->

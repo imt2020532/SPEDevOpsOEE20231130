@@ -1,0 +1,48 @@
+<form [formGroup]="OEEentry1" (ngSubmit)="valuesstored()" class="border border-dark p-3 rounded-3 center-form" *ngIf="OEEentry1">
+
+    <div class="row">
+      <div class="col mb-3">
+        <label for="Date1" class="form-label">Date</label>
+        <input type="date" class="form-control" id="Date1" formControlName="Date1"
+          [min]="minDate" [max]="maxDate" (input)="updateDateRange()">
+        <div class="form-text"></div>
+      </div>
+    </div>
+  
+    <div class="row">
+      <div class="col mb-3">
+        <label for="Shift1" class="form-label">Shift</label>
+        <input type="text" class="form-control" id="Shift1" formControlName="Shift1">
+        <div class="form-text"></div>
+      </div>
+    </div>
+  
+    <div class="row">
+      <div class="col mb-3">
+        <label for="Employee1" class="form-label">Employee</label>
+        <input type="text" class="form-control" id="Employee1" formControlName="Employee1">
+        <div class="form-text"></div>
+      </div>
+    </div>
+  
+    <div class="row">
+      <div class="col mb-3">
+        <label class="form-label">Materials</label>
+        <ng-multiselect-dropdown
+          formControlName="Materialsid1"
+          [data]="materialsList"
+          [settings]="dropdownSettings"
+          [placeholder]="'Select Materials'"
+        ></ng-multiselect-dropdown>
+      </div>
+    </div>
+  
+    <div class="row">
+      <div class="col-6 offset-3">
+        <div class="d-grid">
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+      </div>
+    </div>
+  </form>
+  

@@ -1,0 +1,19 @@
+<table>
+    <thead>
+      <tr>
+        <th>Column 1</th>
+        <th>Column 2</th>
+        <th>Column 3</th>
+        <!-- Add more columns as needed -->
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let material of materialOps">
+        <td>{{ material.chkint_material }}</td>
+        <td>{{ material.ch_operationName }}</td>
+        <td>{{material.decCycleTime}}</td>
+        <!-- Add more columns as needed -->
+      </tr>
+    </tbody>
+  </table>
+  

@@ -1,0 +1,17 @@
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\OEEInterfacr.exe
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\OEEInterfacr.dll
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\OEEInterfacr.deps.json
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\OEEInterfacr.runtimeconfig.json
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\OEEInterfacr.pdb
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\6th_semester\DANG_15th_May\Mom's-Birthday\Interface\OEEInterfacr\OEEInterfacr\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
